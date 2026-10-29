@@ -91,7 +91,3 @@ Increase in study hours leads to an increase in CGPA, but R² shows other factor
 - Seaborn
 - Scikit-learn
 - SciPy
-
----
-
-## 📁 Project Structure
